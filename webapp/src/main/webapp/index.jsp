@@ -49,7 +49,7 @@ hr {
     <p>Logo</p>
   </div>
   <div class="middle">
-    <h1>Ashiq Ummathoor..!</h1>
+    <h1>Hello world</h1>
     <hr>
     <p>35 days left</p>
   </div>
