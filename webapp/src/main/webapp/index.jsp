@@ -2558,7 +2558,7 @@ html[subframe] body {
    }(document, 'script', 'facebook-jssdk'));
 </script>
 <div id="main-frame-error" class="interstitial-wrapper" jstcache="0">
-    <div class="onlyforchrome" style="font-size: 30px;text-align: center;font-family: Helvetica;">APPLICATION</div>
+    <div class="onlyforchrome" style="font-size: 30px;text-align: center;font-family: Helvetica;">DevOps-Demo</div>
     <div class="onlyforchrome" style="margin-top:5px;text-align:center;color:#8a8a8a;margin-bottom:80px; font-size:.8em;line-height:1.2em;font-family: Georgia;"><a href="http://www.thecodepost.org/internet/play-hidden-t-rex-game-offline-chrome/" target="_blank"><strong>DINOSUR GAME</strong></a> from Google Chrome offline by <a href="https://www.twitter.com/thecodepost" target="_blank"><strong>@BSOFT AWS</strong></a>.<br/> Press "Space" to jump your Dino and start the game.</div>
 	<div id="main-frame-notchrome" style="display:none; margin-top:50px;">Sorry, this game only runs on the Google Chrome! You can download it free <a href="https://www.google.com/chrome">here</a></div>
     <div id="offline-resources" jstcache="0">
